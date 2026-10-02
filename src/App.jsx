@@ -1,5 +1,5 @@
 import  { useEffect, useState } from 'react'
-import './app.css'
+import './App.css'
 import Search from './components/Search'
 import Spinner from './components/spinner'
 import MovieCard from './components/MovieCard';
